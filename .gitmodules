@@ -1,0 +1,8 @@
+[submodule "projects/claim_settlement_bd"]
+	path = projects/claim_settlement_bd
+	url = https://github.com/SiddhantDas18/claim_settlement_bd.git
+	branch = main
+[submodule "projects/claim_settlement_fd"]
+	path = projects/claim_settlement_fd
+	url = https://github.com/SiddhantDas18/claim_settlement_fd.git
+	branch = main
